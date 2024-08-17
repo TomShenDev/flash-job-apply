@@ -1,10 +1,6 @@
 # Flash Job Apply
 Python tool for automatically apply jobs on Indeed, LinkedIn and more.
 
-# Job Scraper
-
-This Python script scrapes job listings from a specified website using `requests` and `BeautifulSoup`.
-
 ## Requirements
 
 - Python 3.x
